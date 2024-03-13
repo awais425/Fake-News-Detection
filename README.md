@@ -17,7 +17,7 @@ nltk<br>
 pickle<br>
 SK learn(scikit-learn) <br>
 <h2>Install Anaconda for ML code.</h2> <br> To install anaconda check this url https://www.anaconda.com/download/<br>
-# Clone the repository
+<h2>Clone the repository</h2><br>
 The first step would be to clone this repo in a folder in your local machine. To do that you need to run following command in command prompt or in git bash<br>
 
 git clone https://github.com/awais425/Fake-News-Detection.git
